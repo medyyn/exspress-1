@@ -1,0 +1,184 @@
+{
+  "parfumes": [
+    {
+      "id": 1,
+      "title": "Blue Ocean",
+      "author": "Aqua Scents",
+      "year": 2018,
+      "genre": "Fresh",
+      "price": 49.99,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "title": "Night Oud",
+      "author": "Mystic Woods",
+      "year": 2021,
+      "genre": "Woody",
+      "price": 79.50,
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "title": "Citrus Bloom",
+      "author": "SunScents",
+      "year": 2020,
+      "genre": "Citrus",
+      "price": 35.00,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "title": "Velvet Rose",
+      "author": "FloraLux",
+      "year": 2022,
+      "genre": "Floral",
+      "price": 60.25,
+      "inStock": false
+    },
+    {
+      "id": 5,
+      "title": "Amber Fire",
+      "author": "Orient Essence",
+      "year": 2019,
+      "genre": "Oriental",
+      "price": 85.00,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "title": "Cool Mint",
+      "author": "FreshAir",
+      "year": 2017,
+      "genre": "Fresh",
+      "price": 29.99,
+      "inStock": false
+    },
+    {
+      "id": 7,
+      "title": "Musk Legend",
+      "author": "Elite Scents",
+      "year": 2023,
+      "genre": "Musk",
+      "price": 99.00,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "title": "Berry Crush",
+      "author": "Juicy Notes",
+      "year": 2020,
+      "genre": "Fruity",
+      "price": 45.75,
+      "inStock": false
+    },
+    {
+      "id": 9,
+      "title": "Leather Night",
+      "author": "DarkSilk",
+      "year": 2022,
+      "genre": "Leather",
+      "price": 70.40,
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "title": "Pure Lily",
+      "author": "WhitePetal",
+      "year": 2021,
+      "genre": "Floral",
+      "price": 55.60,
+      "inStock": false
+    },
+    {
+      "id": 11,
+      "title": "Spice Route",
+      "author": "Sahara Scents",
+      "year": 2019,
+      "genre": "Spicy",
+      "price": 73.30,
+      "inStock": true
+    },
+    {
+      "id": 12,
+      "title": "Vanilla Sky",
+      "author": "SweetSense",
+      "year": 2023,
+      "genre": "Gourmand",
+      "price": 64.20,
+      "inStock": false
+    },
+    {
+      "id": 13,
+      "title": "Ocean Drift",
+      "author": "BlueWave",
+      "year": 2018,
+      "genre": "Aquatic",
+      "price": 39.90,
+      "inStock": true
+    },
+    {
+      "id": 14,
+      "title": "Green Forest",
+      "author": "Earth Essence",
+      "year": 2020,
+      "genre": "Green",
+      "price": 50.00,
+      "inStock": false
+    },
+    {
+      "id": 15,
+      "title": "Candy Pop",
+      "author": "FunFrags",
+      "year": 2021,
+      "genre": "Sweet",
+      "price": 30.99,
+      "inStock": true
+    },
+    {
+      "id": 16,
+      "title": "Silent Woods",
+      "author": "NatureSoul",
+      "year": 2017,
+      "genre": "Woody",
+      "price": 66.60,
+      "inStock": false
+    },
+    {
+      "id": 17,
+      "title": "Golden Oud",
+      "author": "Royal Essence",
+      "year": 2023,
+      "genre": "Oriental",
+      "price": 95.00,
+      "inStock": true
+    },
+    {
+      "id": 18,
+      "title": "Lavender Breeze",
+      "author": "Herbal Touch",
+      "year": 2022,
+      "genre": "Aromatic",
+      "price": 52.80,
+      "inStock": false
+    },
+    {
+      "id": 19,
+      "title": "Cocoa Woods",
+      "author": "DeepScents",
+      "year": 2021,
+      "genre": "Gourmand",
+      "price": 78.45,
+      "inStock": true
+    },
+    {
+      "id": 20,
+      "title": "Tropical Rain",
+      "author": "ExoticAir",
+      "year": 2019,
+      "genre": "Fresh",
+      "price": 42.00,
+      "inStock": false
+    }
+  ]
+}
